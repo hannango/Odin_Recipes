@@ -1,12 +1,13 @@
 <!DOCTYPE html> 
 <html lang="en"> 
     <head> 
-        <title> Odin Recipes </title>
         <meta charset="utf-8"> 
     </head>
 
     <body> 
-        <h1> Vanilla Creme Brulee </h1> 
-        <a href="https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee">Vanilla Creme Brulee</a>
+        <h1> Vanilla Creme Brulee </h1>
+        <a href="https://cooking.nytimes.com/recipes/9039-vanilla-creme-brulee">Vanilla Creme Brulee</a> 
     </body>
 </html>
+
+
