@@ -1,8 +1,9 @@
 body { 
-  background-color: #FFFDD0; 
+  background-color: #d0eaff; 
+  font-family: "Archivo"; font-size: 20px; 
 } 
 
 h1 { 
   color: #ffd0d2; 
-  font-family: "Archivo Black"; font-size: 20px; 
+  font-family: "Archivo Black"; font-size: 40px; 
 } 
